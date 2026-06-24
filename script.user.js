@@ -5,8 +5,8 @@
 // @version      3.3
 // @description  Сохранение в архиве ваших диалогов с Google Поиск и Google Gemini
 // @description:en Save your conversations with Google Search and Google Gemini to a personal archive.
-// @author       Digital Dark & AI
-// @license      MIT
+// @author       Darkness-83 & AI
+// @license      GPL-3.0
 // @match        *://*.google.com/*
 // @match        *://*.google.ru/*
 // @grant        GM_setValue
